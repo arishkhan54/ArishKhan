@@ -30,9 +30,10 @@
 ### 📌 Pinned Repositories
 
 - 🔹 [Java Programs](https://github.com/arishkhan54/Java-Programs) - Core Java & Advanced concepts  
-- 🔹 [C Programs](https://github.com/arishkhan54/C-Programs) - Basic C/C++ coding practice  
+- 🔹 [C Programs](https://github.com/arishkhan54/C-Programs) - Basic C/C++ coding practice
+- 🔹 [EmployeeManagementSystem](https://github.com/arishkhan54/EmployeeManagementSystem) - Full Stack Project with using the Advanced Tools like Java Spring Boot - Angular & MySql
 
-> More coming soon: Java Spring Boot web apps, Azure-integrated projects, Student Management System...
+> More coming soon: Azure-integrated projects, Student Management System...
 
 ---
 
